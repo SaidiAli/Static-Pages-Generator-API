@@ -7,7 +7,7 @@
     <P>This is the static pages generator api that enables to create, edit and store static files. The static files majorly include markdown and html files <br/> You give us a markdown file or just the contents of it and we give a whole html page.</P>
 
     <h2 class="mt-3">How to get started</h2>
-    <p>Since you already have an account with, head to your dashboard in the navbar and create an API key. This key will enable you to interact with our API. <br/> When you get the key, it will be placed in the <code>Authorization</code> header as the Bearer token. Then you will be all set.</p>
+    <p>You will have to create an account with us, <a href="{{ route('register')}}">register here.</a>, then head to your dashboard in the navbar and create an API key. This key will enable you to interact with our API. <br/> When you get the key, it will be placed in the <code>Authorization</code> header as the Bearer token. Then you will be all set.</p>
 
     <p>All the urls return responses in json format, like so;</p>
     <code>
