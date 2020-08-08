@@ -1,4 +1,3 @@
-# Team -Sentry Backend Task
 
 Welcome to the static page generator API.
 <br/> This api will enable you create static pages (markdown and html) , store them for you and you can have them anytime.
